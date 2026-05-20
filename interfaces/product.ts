@@ -7,4 +7,5 @@ export interface ProductRow {
     brand: string;
     stock: number;
     rating: number;
+    slug: string;
 }
